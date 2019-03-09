@@ -8,6 +8,8 @@ Frankly speaking, music follows every step. We can hear it at home, at a restaur
 
 We focused on a front end just to illustrate the idea. After you selected your addresses (we make a fake call to a fake taxi cab service) you can see the car image on top which starts to move to the right. At some point, it will reach Your destination. You can choose songs and it will show you how much of your ride you have covered. Next screen is a play screen a small illustration of a simple web player for the client. We haven't implement any backend because of time restriction but it can be easily achieved if needed.
 
+## Launch Demo
+
 ### `yarn start`
 
 Runs the app in the development mode.<br>
